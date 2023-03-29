@@ -1,0 +1,21 @@
+ 6176  pipenv install
+ 6178  pipenv install nltk
+ 6184  pipenv install corpora/reuters
+ 6222  pipenv install numpy
+ 6224  pipenv install pandas
+ 6225  pipenv install keras
+ 6227  pipenv install tensorflow
+ 6247  pipenv install --python 3.8
+ 6264  pipenv install --python 3.8
+ 6267  pipenv install numpy
+ 6268  pipenv install pandas
+ 6269  pipenv install keras
+ 6271  pipenv install tensorflow
+ 6279  export PIP_NO_BINARY=h5py && pipenv install h5py
+ 6280  pipenv install tensorflow-macos
+ 6281  pipenv install tensorflow-metal
+ 6286  pipenv install keras
+ 6291  pipenv install sklearn
+ 6294  pipenv install sklearn
+ 6297  pipenv install scikit-learn
+ 6299  history | grep "pipenv install"
